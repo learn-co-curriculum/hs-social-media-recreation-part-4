@@ -1,5 +1,6 @@
 ## Recreating Our Social Media App
 
+![](http://www.bandt.com.au/information/uploads/2014/08/iStock_000027555541_Small-1260x840.jpg)
 ### Setting Up Sessions
 
 Today's Goal: Use Sessions to allow users to log in and post content!
