@@ -22,4 +22,4 @@ Today's Goal: Use Sessions to allow users to log in and post content!
 + You've got the authentication working, now let's work on authorization. Add some logic to your app so that a user only sees the new content form if they're logged in. 
 + Likewise, add more logic so that logged in users see a link to "/logout", while everyone else sees links to "/login" and "/signup"
 + Refactor your code to use helper methods. It's much nice to see `<% if logged_in? %>` instead of `<% if session[:user_id] %>`. See the Fwitter extra challenges for more help with this!
-<a href='https://learn.co/lessons/hs-social-media-recreation-part-4' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-social-media-recreation-part-4' title='Recreating Our Social Media App'>Recreating Our Social Media App</a> on Learn.co and start learning to code for free.</p>
